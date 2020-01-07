@@ -7,7 +7,8 @@ A widely considered problem in Computer Vision is scene recognition. Its importa
 
 Packages needed: Numpy, Torch, TorchVision, CV2, Pandas, Sklearn, Skimage, Pylab  
 
-Dataset: Places365 (http://places2.csail.mit.edu/download.html)
+Dataset: Places365 (http://places2.csail.mit.edu/download.html) 
+
 Pre-trained Resnet-50 on Places 365 (https://github.com/CSAILVision/places365)
 
 
